@@ -9,3 +9,8 @@ Add wardley.graphml as a palette
 
 
 ![example2](https://raw.githubusercontent.com/colugo/yed-wardley/master/Example2.png)
+
+
+
+* Blank.graphml is a 'prettier' standard map that better aligns with Simon Wardley's example images
+![example2](https://raw.githubusercontent.com/colugo/yed-wardley/master/BlankMap.png)
